@@ -23,9 +23,12 @@ For comment in code we use
 
 example: `# This is a comment`
 
-There is no multiline comment in Python like other Programming language
+
+> There is no multiline comment in Python like other Programming language
 So we have use like
+
 ---
+
 Now See how to declare a variable in python
 
 `name = "Tom Henry"`
