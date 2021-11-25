@@ -32,3 +32,30 @@ So we have use like
 Now See how to declare a variable in python
 
 `name = "Tom Henry"`
+
+--- 
+
+Now let`s see Data types in Python
+
+[25th Nov 2021]
+1. Data Type in Python
+2. Numbers in Python
+3. Data Type Casting in Python
+
+There are some kinds of data types that are built in Python. Some of them: 
+
+1. str [For string or text]
+2. int [integer number]
+3. float [floating number]
+4. list 
+5. tuple
+6. set
+7. dict [dictionary]
+8. bool [boolean]
+
+Now let`s see some example
+
+---
+
+Now we will see how can we cast one data type to another
+example on `Basic02.py` file
