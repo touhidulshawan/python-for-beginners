@@ -1,7 +1,8 @@
                                             PYTHON FOR BEGINNERS 
 ---
 Today in this video series we will learn about Python.
-Today we will see:
+
+[25th Nov 2021]:
 1. Python Syntax
 2. How to execute or run the python code
 3. How to comment on python 
