@@ -1,5 +1,4 @@
                                             PYTHON FOR BEGINNERS 
-=================================================================================================================
 ---
 Today in this video series we will learn about Python.
 Today we will see:
