@@ -25,3 +25,53 @@ print(type(one_tuple_item))
 # if we do not pass , with the item than it will count as string not tuple
 one_tuple_item = ("Orange")
 print(type(one_tuple_item))
+
+# Access tuple item
+
+my_tuple = ("Apple", "Mango", "Strawberry", "Banana")
+
+# To access a item we can access with it's index number like we do in list
+# print Banana
+print(my_tuple[3])
+
+# Update tuple
+# In previous video we said that tuple is unchangeable then how can we update
+# a tuple. We can change or update a tuple by converting into a list that we
+# can update that list and convert updated list to tuple again
+# first see that we can really change  a tuple item without this trick
+# so  this is giving us an error that we can not update tuple item
+# my_tuple[2] = "Orange"
+# Now do the tricks
+my_list = list(my_tuple)
+print(my_list)
+my_list[1] = "Orange"
+my_tuple = tuple(my_list)
+print(my_tuple)
+# so  update the tuple we replace Mango with orange
+
+# Join tuples
+
+tuple_1 = ("Tom", "Mike", "John")
+tuple_2 = (1, 4, 5, 6)
+joined_tuple = tuple_1 + tuple_2
+print(f"Joined tuple: {joined_tuple}")
+
+# we can also double the tuple item
+
+double_tuple = tuple_1 * 2
+print(double_tuple)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
