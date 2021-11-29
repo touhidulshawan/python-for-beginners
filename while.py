@@ -26,12 +26,4 @@ while flag <= 10:
     print(flag)
     flag += 1
 
-
 # This is how we can use while loop in python
-
-
-
-
-
-
-
