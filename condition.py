@@ -30,7 +30,3 @@ if a > b or a == c:
     print("Correct")
 else:
     print("Not correct")
-
-
-
-
